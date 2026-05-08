@@ -3,8 +3,8 @@ import json
 from flask import Flask, request, jsonify, render_template
 from groq import Groq
 from datetime import datetime
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 app = Flask(__name__)
 

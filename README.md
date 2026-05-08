@@ -36,7 +36,7 @@ A bilingual (Arabic 🇸🇦 + English 🇬🇧) AI customer support chatbot bui
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/arabic-chatbot.git
+git clone [https://github.com/YOUR_USERNAME/arabic-chatbot.git](https://github.com/YasirHussain1272/Customer-chatbot.git)
 cd arabic-chatbot
 ```
 
@@ -60,17 +60,6 @@ Open: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## ☁️ Deploy Free on Render
-
-1. Push this repo to GitHub
-2. Go to [render.com](https://render.com) → New Web Service
-3. Connect your GitHub repo
-4. Set environment variable: `GROQ_API_KEY = your_key`
-5. Build Command: `pip install -r requirements.txt`
-6. Start Command: `gunicorn app:app`
-7. Deploy 🚀
-
----
 
 ## 📁 Project Structure
 

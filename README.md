@@ -89,6 +89,9 @@ Edit the `SYSTEM_PROMPT` in `app.py` to match your business:
 
 > WhatsApp-style UI with RTL Arabic support and real-time AI responses
 
+
+![Chatbot UI](image/Chatbot UI.png)
+
 ---
 
 ## 🤝 Contributing
